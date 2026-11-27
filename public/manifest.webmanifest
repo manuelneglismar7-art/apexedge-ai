@@ -1,0 +1,17 @@
+{
+  "id": "/",
+  "name": "ApexEdge AI · Market Monitor",
+  "short_name": "ApexEdge",
+  "description": "Panel privado de seguimiento descriptivo de mercados deportivos.",
+  "lang": "es",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#101615",
+  "theme_color": "#101615",
+  "categories": ["sports", "finance"],
+  "icons": [
+    { "src": "/apexedge-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
